@@ -1,0 +1,1 @@
+# vagrant_plugins_docker-compose
